@@ -1,26 +1,32 @@
-# Syed Najmuddin 👋
+ # Syed Najmuddin
 
-### 👨‍💻 About Me
-I am a **Full-Stack Web Developer** and currently a BS Information Technology student (7th Semester). I have a strong interest in building scalable web applications, automation, and data analysis.
-
-- 🚀 **Current Project:** Developing a professional e-commerce platform using the MERN Stack.
-- 🎓 **Academic Focus:** Web Engineering, Data Structures, and Mobile App Development.
-- 💼 **Freelancing:** Interested in digital entrepreneurship and marketplace development.
+Student, Information Technology  
+University of Balochistan, Quetta, Pakistan
 
 ---
 
-### 🛠 Tech Stack
-* **Frontend:** React.js, HTML5, CSS3, JavaScript (ES6+)
-* **Backend:** Node.js, Express.js, PHP
-* **Database:** MongoDB, MySQL
-* **Tools & Others:** Python, Git, VS Code, Jupyter Notebook
+## About Me
+
+I am **Syed Najmuddin**, currently pursuing a Bachelor of Science in **Information Technology** (7th Semester). My expertise lies in full-stack web development and I am passionate about building efficient digital solutions.
+
+My academic interests lie at the intersection of **computing, web engineering, and data analysis**, with a focus on mastering modern frameworks and software development methodologies.
 
 ---
 
-### 📚 Academic Interests
-* Data Science & Data Mining
-* Database Administration & Management
-* Web Technologies & Engineering
+## Technical Skills
+
+* **Web Development:** MERN Stack (MongoDB, Express, React, Node.js), PHP, MySQL
+* **Programming:** Python, JavaScript
+* **Tools:** Git, VS Code, Jupyter Notebook
+
+---
+
+## Academic Focus
+
+I have a strong foundation in the following areas:
+* Data Structures and Algorithms
+* Database Management Systems
+* Web Engineering & Technologies
 * Discrete Structures
 
 ---
