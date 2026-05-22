@@ -1,35 +1,24 @@
- # Syed Najmuddin
+ <p align="center">
+  <img src="profile.png" alt="Syed Najmuddin" width="160" style="border-radius: 8px; box-shadow: 0px 4px 8px rgba(0,0,0,0.1);">
+</p>
 
-Student, Information Technology  
-University of Balochistan, Quetta, Pakistan
+## 🚀 About Me
 
----
+I am **Syed Najmuddin**, currently pursuing a Bachelor of Science in **Information Technology** (7th Semester). My expertise lies in full-stack web development and I am passionate about building efficient digital solutions. My academic interests lie at the intersection of computing, web engineering, and data analysis, with a focus on mastering modern frameworks and software development methodologies.
 
-## About Me
+## 🎓 Education
 
-I am **Syed Najmuddin**, currently pursuing a Bachelor of Science in **Information Technology** (7th Semester). My expertise lies in full-stack web development and I am passionate about building efficient digital solutions.
+| Institution | Degree | Duration |
+| :--- | :--- | :--- |
+| University of Balochistan | Bachelor's (BS IT) | 2022-12 - 2026-12 |
 
-My academic interests lie at the intersection of **computing, web engineering, and data analysis**, with a focus on mastering modern frameworks and software development methodologies.
+### Bachelor's in Information Technology
+*University of Balochistan, Quetta, Pakistan*
 
----
+## 📞 Contact & Links
 
-## Technical Skills
-
-* **Web Development:** MERN Stack (MongoDB, Express, React, Node.js), PHP, MySQL
-* **Programming:** Python, JavaScript
-* **Tools:** Git, VS Code, Jupyter Notebook
-
----
-
-## Academic Focus
-
-I have a strong foundation in the following areas:
-* Data Structures and Algorithms
-* Database Management Systems
-* Web Engineering & Technologies
-* Discrete Structures
+* 📬 How to reach me: [aghasyednajmuddin@gmail.com](mailto:aghasyednajmuddin@gmail.com) ```
 
 ---
 
-### 📊 GitHub Stats
-![My Stats](https://github-readme-stats.vercel.app/api?username=syednajmuddin&show_icons=true&theme=dark)
+ 
