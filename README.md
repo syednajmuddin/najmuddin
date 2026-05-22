@@ -20,7 +20,7 @@ I am **Syed Najmuddin**, currently pursuing a Bachelor of Science in **Informati
 * 📬 How to reach me: [aghasyednajmuddin@gmail.com](mailto:aghasyednajmuddin@gmail.com) ```
 * ## 🌐 Connect with Me
 
-<a href="YOUR_LINKEDIN_URL" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/syed-najmuddin-agha-6a0a1428a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/syednajmuddinagha?igsh=MWdzN2U0ZHZ6cmJ0Zw==" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://www.facebook.com/share/17RCuws3cM/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
 <a href="https://wa.me/923317572367" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
