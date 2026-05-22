@@ -38,6 +38,16 @@ I am **Syed Najmuddin**, currently pursuing a Bachelor of Science in **Informati
 
 ### 📊 Database
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+## 🎯 Interests & Focus Areas
+
+### 💻 Web Engineering
+<img src="https://img.shields.io/badge/Full--Stack_Development-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Full Stack"> <img src="https://img.shields.io/badge/Web_Architecture-FF5722?style=for-the-badge&logo=serverless&logoColor=white" alt="Architecture">
+
+### 📊 Data Analysis & Computing
+<img src="https://img.shields.io/badge/Data_Analysis-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Data Analysis"> <img src="https://img.shields.io/badge/Software_Methodologies-4CAF50?style=for-the-badge&logo=git&logoColor=white" alt="Methodologies">
+
+### 🔧 Automation & Cybersecurity
+<img src="https://img.shields.io/badge/Smart_Automation-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Automation"> <img src="https://img.shields.io/badge/Cybersecurity_Tools-000000?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Cybersecurity">
 
  
  
