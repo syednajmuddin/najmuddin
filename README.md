@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-I am **Syed Najmuddin**, currently pursuing a Bachelor of Science in **Information Technology** (7th Semester). My expertise lies in full-stack web development and I am passionate about building efficient digital solutions. My academic interests lie at the intersection of computing, web engineering, and data analysis, with a focus on mastering modern frameworks and software development methodologies.
+I am **Syed Najmuddin**, currently pursuing a Bachelor of Science in **Information Technology** (7th Semester).. My academic interests lie at the intersection of computing, web engineering, and data analysis, with a focus on mastering modern frameworks and software development methodologies.
 
 ## 🎓 Education
 
