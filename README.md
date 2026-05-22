@@ -47,12 +47,12 @@ I am **Syed Najmuddin**, currently pursuing a Bachelor of Science in **Informati
 <br>
 
 <img src="https://img.shields.io/badge/Web_Engineering-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Web Engineering"> <img src="https://img.shields.io/badge/Data_Analysis-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Data Analysis"> <img src="https://img.shields.io/badge/Automation-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Automation"> <img src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Cybersecurity">
-  ## 📊 GitHub Statistics
+   ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=syednajmuddin&show_icons=true&theme=radial&hide_border=false" alt="Syed Najmuddin's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=syednajmuddin&show_icons=true&theme=radial&hide_border=false" alt="Syed Najmuddin's GitHub Stats" width="48%" />
   
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=syednajmuddin&layout=compact&theme=radial&hide_border=false" alt="Syed Najmuddin's Top Languages" width="48%" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=syednajmuddin&layout=compact&theme=radial&hide_border=false" alt="Syed Najmuddin's Top Languages" width="48%" />
 </p>
 
 <p align="right">
